@@ -1,4 +1,4 @@
 - Refactor so instead of using a List of valid characters, regular expressions are used
 - Instead of static final constants, make tags into enums
-- Change tree in SyntaxAnalyzer from LinkedList to Stack
+- Change tree in SyntaxAnalyzer from LinkedList to Stack?
 - Use Map to keep track of variable value association?
